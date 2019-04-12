@@ -1,0 +1,7 @@
+<suite name="Nearbuy Website Test Automation Suit">
+ <test name="Nearbuy Testcases">
+ <classes>
+ <class name="com.nearbuy.qa.testcases.LoginPageTest"></class>
+ </classes>
+ </test>
+</suite>
